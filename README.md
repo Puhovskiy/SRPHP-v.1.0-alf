@@ -1,4 +1,4 @@
-# SRPHP-v.1.0-alf
+# Simple Router PHP (SRPHP) - v.1.0-alf
 Simple Router PHP.
 
 The routes configuration sets in routes.php. 
