@@ -2,7 +2,7 @@
 Simple Router PHP.
 
 The routes configuration sets in routes.php. 
-<p>Basic format is <strong style="color : red">"/"</strong> - it means the request on basic home page will load some array. 
+<p>Basic format is "/" - it means the request on basic home page will load some array. 
 Than will be loaded configuration of this route, witch consist array with different variables taht can be changed.
 <br><a src="https://imgbb.com/"><img src="https://i.ibb.co/0fvHPx8/SRP.png">
 </p> 
